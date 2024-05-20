@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112062683639",
+    "project_id": "artbooktesting",
+    "storage_bucket": "artbooktesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112062683639:android:3610ced4c84be8c8ea76f2",
+        "android_client_info": {
+          "package_name": "com.example.artbooktesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApS36U377QSme4fFdLJcVWsIfbCHSQqyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
